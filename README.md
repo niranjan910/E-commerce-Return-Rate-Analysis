@@ -25,15 +25,14 @@ An executive presentation summarizing the results can be found here `AI Career S
 # Data Structure & Initial Checks
 
 The primary data fields are as follows:
-- **Job Title**: Role designation for each listing
-- **Industry**: Sector classification of the employer
-- **Required Skills**: Key technical competencies demanded
-- **Salary Range**: Compensation details (annual)
-- **Work Type**: Categorized as Remote, Hybrid, or Onsite
-- **Company Size**: Employee headcount classification
-- **Location**: City and country of the job
-- **Automation Risk**: Estimate of how easily the role could be automated
-- **Growth Projections**: Future outlook for the role category
+- **Product_Price:** The listed price of the product in USD (range: 5 to 1000).
+- **Discount_Rate:** Discount rate applied to the product (0.0 to 0.8).
+- **Product_Rating:** Customer rating on a scale from 1 to 5.
+- **Number_of_Reviews:** Total number of user reviews (0 to 5000, highly skewed).
+- **Stock_Availability:** Product availability in stock (1 = available, 0 = out of stock).
+- **Days_to_Deliver:** Number of days it takes to deliver the product (1 to 30).
+- **Return_Rate:** Proportion of items returned after purchase (0.0 to 0.9).
+- **Category_ID:** ID of the product category (integer from 1 to 10).
 
 
 ---
