@@ -1,5 +1,3 @@
-![E-Commerce Product Performance](images/LinkedIn%20cover%20-%201.png)
-
 
 # E-Commerce Product Performance
 
