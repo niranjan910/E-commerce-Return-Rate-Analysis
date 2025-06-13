@@ -84,4 +84,4 @@ The dataset allows for hands-on practice in **data cleaning**, **exploratory dat
 For queries or collaborations:  
 - **Email:** niranjan991100@gmail.com  
 - **LinkedIn:** [Niranjan's Profile](https://www.linkedin.com/in/niranjan-a83517229/)
-- **Portfolio**: (https://niranjan910.github.io/NiranjanDataAnalystPortfolio.github.io/)
+- **Portfolio**: [Portfolio](https://niranjan910.github.io/NiranjanDataAnalystPortfolio.github.io/)
